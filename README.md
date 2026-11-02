@@ -1,5 +1,3 @@
-# Next-word-prediction
-Interactive Streamlit app that predicts the next word in a sentence using an LSTM model built with TensorFlow and Keras.
 # 🧠 Next Word Prediction with LSTM
 
 An interactive Streamlit web app that predicts the next word in a sentence using a deep learning LSTM model built with TensorFlow and Keras.

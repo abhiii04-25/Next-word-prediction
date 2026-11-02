@@ -7,6 +7,10 @@ An interactive Streamlit web app that predicts the next word in a sentence using
 ![Streamlit](https://img.shields.io/badge/Streamlit-app-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+## 🚀 Live Demo
+
+Try the deployed application here: **[Next Word Prediction – Open App](https://abhiii04-25-nextword.streamlit.app/)**
+
 <!-- Add a screenshot: save it as screenshot.png in the repo and uncomment the line below -->
 <!-- ![App screenshot](screenshot.png) -->
 

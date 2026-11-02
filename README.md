@@ -60,7 +60,7 @@ next-word-prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/next-word-prediction.git
+git clone https://github.com/abhiii04-25/next-word-prediction.git
 cd next-word-prediction
 ```
 
